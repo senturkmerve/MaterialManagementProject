@@ -1,0 +1,36 @@
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csprojAssemblyReference.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CopyComplete
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Model\obj\Debug\MaterialManagementProject.Model.pdb

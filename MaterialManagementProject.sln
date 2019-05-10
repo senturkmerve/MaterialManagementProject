@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagementProject.UI", "MaterialManagementProject.UI\MaterialManagementProject.UI.csproj", "{6A082C82-A157-4C5C-8B29-6611C1D7BF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagemenetProject.Core", "MaterialManagemenetProject.Core\MaterialManagemenetProject.Core.csproj", "{1EE143D9-455F-4487-8376-AC0BC117B3C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagementProject.Model", "MaterialManagementProject.Model\MaterialManagementProject.Model.csproj", "{7002007F-C3A1-4576-9837-AFBBB5358F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagementProject.Map", "MaterialManagementProject.Map\MaterialManagementProject.Map.csproj", "{7DBCF7AB-C779-4688-8B0D-619A114843A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagementProject.Utility", "MaterialManagementProject.Utility\MaterialManagementProject.Utility.csproj", "{FA494562-761A-428F-9D91-4DD440FE148D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialManagementProject.DAL", "MaterialManagementProject.DAL\MaterialManagementProject.DAL.csproj", "{FA8CF632-4D0C-458E-A559-85E2F8D84496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialMangementProject.Service", "MaterialMangementProject.Service\MaterialMangementProject.Service.csproj", "{81B757A5-723B-4BB3-A772-2C3D1411C0F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A082C82-A157-4C5C-8B29-6611C1D7BF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A082C82-A157-4C5C-8B29-6611C1D7BF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A082C82-A157-4C5C-8B29-6611C1D7BF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A082C82-A157-4C5C-8B29-6611C1D7BF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE143D9-455F-4487-8376-AC0BC117B3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE143D9-455F-4487-8376-AC0BC117B3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE143D9-455F-4487-8376-AC0BC117B3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE143D9-455F-4487-8376-AC0BC117B3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7002007F-C3A1-4576-9837-AFBBB5358F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7002007F-C3A1-4576-9837-AFBBB5358F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7002007F-C3A1-4576-9837-AFBBB5358F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7002007F-C3A1-4576-9837-AFBBB5358F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBCF7AB-C779-4688-8B0D-619A114843A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBCF7AB-C779-4688-8B0D-619A114843A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBCF7AB-C779-4688-8B0D-619A114843A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBCF7AB-C779-4688-8B0D-619A114843A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA494562-761A-428F-9D91-4DD440FE148D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA494562-761A-428F-9D91-4DD440FE148D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA494562-761A-428F-9D91-4DD440FE148D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA494562-761A-428F-9D91-4DD440FE148D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8CF632-4D0C-458E-A559-85E2F8D84496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8CF632-4D0C-458E-A559-85E2F8D84496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8CF632-4D0C-458E-A559-85E2F8D84496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8CF632-4D0C-458E-A559-85E2F8D84496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B757A5-723B-4BB3-A772-2C3D1411C0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B757A5-723B-4BB3-A772-2C3D1411C0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B757A5-723B-4BB3-A772-2C3D1411C0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B757A5-723B-4BB3-A772-2C3D1411C0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA3AE3F-F421-4E80-A1BE-7BA3682F8A0C}
+	EndGlobalSection
+EndGlobal

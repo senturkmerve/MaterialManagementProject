@@ -1,0 +1,81 @@
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csprojAssemblyReference.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CopyComplete
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialMangementProject.Service.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.DAL.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\bin\Debug\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialMangementProject.Service\obj\Debug\MaterialMangementProject.Service.pdb

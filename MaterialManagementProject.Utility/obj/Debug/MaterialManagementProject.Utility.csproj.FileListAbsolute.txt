@@ -1,0 +1,54 @@
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csprojAssemblyReference.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CopyComplete
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.DiskCache.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\ImageResizer.Plugins.PrettyGifs.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Utility\obj\Debug\MaterialManagementProject.Utility.pdb

@@ -1,0 +1,51 @@
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csprojAssemblyReference.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CoreCompileInputs.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CopyComplete
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.Map\obj\Debug\MaterialManagementProject.Map.pdb

@@ -1,0 +1,273 @@
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.rsp
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.rsp
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.AppContext.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Console.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.rsp
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csprojAssemblyReference.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CoreCompileInputs.cache
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CopyComplete
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.xml
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.pdb
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll.config
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\merve.senturk\source\repos\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.rsp
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.rsp
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.AppContext.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Console.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.rsp
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.dll
+C:\Users\LB ASUS\Desktop\Yeni klasör (7)\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.UI.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.exe.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csc.rsp
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.exe.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\csi.rsp
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.AppContext.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Console.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.exe.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\vbc.rsp
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagemenetProject.Core.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Model.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Utility.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialMangementProject.Service.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Razor.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Webpages.Razor.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Helpers.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\System.Web.Mvc.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\ImageResizer.xml
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.DAL.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.pdb
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\bin\MaterialManagementProject.Map.dll.config
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csprojAssemblyReference.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CoreCompileInputs.cache
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.csproj.CopyComplete
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.dll
+C:\Users\LB ASUS\Desktop\MaterialManagementProject\MaterialManagementProject.UI\obj\Debug\MaterialManagementProject.UI.pdb
